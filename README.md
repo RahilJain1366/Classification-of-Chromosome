@@ -94,3 +94,7 @@ Chromosomal abnormalities affect 1 in 150 newborns. Traditional karyotyping is t
 
 ---
 
+## 📚 References
+
+For detailed references and literature review, see Project Report.docx.
+
