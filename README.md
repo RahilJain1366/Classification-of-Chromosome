@@ -31,6 +31,7 @@ Chromosomal abnormalities affect 1 in 150 newborns. Traditional karyotyping is t
 <pre> chromosome-classification/ 
   ├── chromosome_resnet_1.ipynb # ResNet-based classification model 
   ├── Final Project.ipynb # Full pipeline with EfficientNet, super-resolution, and classification 
-  ├── Project Report.docx # Detailed writeup and analysis ├── dataset/ # Segmented and enhanced chromosome strands (not included here) 
+  ├── Project Report.docx # Detailed writeup and analysis 
+  ├── dataset/ # Segmented and enhanced chromosome strands (not included here) 
   └── README.md # Project overview and instructions 
 </pre>
